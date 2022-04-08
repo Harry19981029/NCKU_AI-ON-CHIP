@@ -1,5 +1,5 @@
 # NCKU_AI-ON-CHIP_2022_Spring
 
-//Hardware description language: Verilog
+Hardware description language: Verilog
 
-//Programming language: Python
+Programming language: Python
