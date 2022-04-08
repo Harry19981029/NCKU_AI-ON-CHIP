@@ -1,4 +1,4 @@
-# NCKU_AI-ON-CHIP_2022_Spring
+# NCKU_AI-ON-CHIP_2022
 
 Hardware description language: Verilog
 
