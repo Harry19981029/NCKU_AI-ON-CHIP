@@ -1,7 +1,7 @@
-# NCKU_AI-ON-CHIP_2022
+# NCKU_AI-ON-CHIP
 
 Assignment1: AI Model Design
 
 Assignment2: Model Quantization
 
-Assignment3: MAC Implementation & Analyzation
+Assignment4: MAC Implementation & Analyzation
