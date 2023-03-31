@@ -4,4 +4,4 @@ Assignment1: AI Model Design
 
 Assignment2: Model Quantization
 
-Assignment4: MAC Implementation & Analyzation
+Assignment3: MAC Implementation & Analyzation
